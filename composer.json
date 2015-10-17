@@ -8,6 +8,8 @@
 		{ "name": "Olivier Laviale", "homepage": "https://github.com/olvlvl" }
 	],
 	"require": {
-		"latte/latte": "~2.2"
+		"latte/latte": "~2.2",
+		"thomaspark/bootswatch": "^3.3",
+		"robloach/component-installer": "^0.2.3"
 	}
 }
